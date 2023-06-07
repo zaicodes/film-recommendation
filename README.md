@@ -75,7 +75,8 @@ description = '''Will he save their world or destroy it? When the Hulk becomes t
 the Illuminati trick Hulk into a shuttle and launch him into space to a planet where the Hulk can 
 live in peace. Unfortunately, Hulk lands on the planet Sakaar where he is sold into slavery and trained as a gladiator.'''
 similar_movie = find_similar_movie(description)
-print(similar_movie) ```
+print(similar_movie) 
+```
 
 Replace the description variable with your desired film description, run the script, and the closest matching movie description will be displayed.
 
